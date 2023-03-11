@@ -13,7 +13,7 @@
 /* The second element: 
     * blue text and a font size of 36px 
 */
-.second {
+#second {
     color: blue;
     font-size: 36px;
 }
@@ -31,7 +31,7 @@
     * a font size of 24px, 
     * bold 
 */
-.fourth {
+#fourth {
     background-color: lightgreen;
     font-size: 24px;
     font-weight: bold;
